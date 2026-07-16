@@ -1,0 +1,6 @@
+{
+  "name": "Al-Falah Library",
+  "description": "A complete, production-ready Islamic book library and reader system with built-in admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
